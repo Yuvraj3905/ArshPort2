@@ -2,16 +2,15 @@
 
 ## Features
 - Home section
-- Projects section
-- About section
-- Skills section
+- Education section
 - Experience section
+- Projects section
 - Contact section
 
 ## Installation
 1. Clone the repository
 2. Navigate to the project directory
-3. Open the index.html file in a web browser
+3. Open the portfolio.html file in a web browser
 
 ## Usage
 1. Open the project directory in a text editor
